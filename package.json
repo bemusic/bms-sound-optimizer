@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bemuse-notechart": "^2.1.0-0",
+    "bluebird": "^3.5.1",
+    "glob": "^7.1.2",
+    "lodash": "^4.17.10",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "pino": "^4.17.6",
+    "verror": "^1.10.0"
+  }
+}
